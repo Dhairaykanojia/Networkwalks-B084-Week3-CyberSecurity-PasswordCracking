@@ -10,7 +10,7 @@ This repository documents the practical activities completed during Week 3 of th
 - **W3-PM2:** Hash Calculator & Web Password Cracker
 - **W3-PM-FINAL:** Consolidated Practical Report
 
-**Full Report:** [Week3-PM1-PM2-Report.pdf](Week3-PM1-PM2-Report.pdf)
+**Full Report:** [Week3-PM1-PM2-Report.pdf](Week3-PM1-PM2-Report.pdf).
 
 ---
 
