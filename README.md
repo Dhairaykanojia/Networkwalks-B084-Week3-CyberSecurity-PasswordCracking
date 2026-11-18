@@ -60,31 +60,31 @@ No unauthorized access, exploitation, or testing against real third-party accoun
 
 **1. Johnny GUI Setup**
 
-![Johnny GUI Setup](Screenshots/01-Johnny-GUI-JTR-Setup.png)
+![Johnny GUI Setup](01-Johnny-GUI-JTR-Setup.png)
 
 **2. PDF Hash Extractor Tool**
 
-![PDF Hash Extractor Tool](Screenshots/02-PDF-Hash-Extractor-Tool.png)
+![PDF Hash Extractor Tool](02-PDF-Hash-Extractor-Tool.png)
 
 **3. Locked PDFs and Hash Files**
 
-![Locked PDFs and Hash Files](Screenshots/03-Locked-PDFs-and-Hash-Files.png)
+![Locked PDFs and Hash Files](03-Locked-PDFs-and-Hash-Files.png)
 
 **4. Johnny Cracked Passwords List**
 
-![Johnny Cracked Passwords List](Screenshots/04-Johnny-Cracked-Passwords-List.png)
+![Johnny Cracked Passwords List](04-Johnny-Cracked-Passwords-List.png)
 
 **5. Flag 1 Captured**
 
-![Flag 1 Captured](Screenshots/05-Flag1-Captured.png)
+![Flag 1 Captured](05-Flag1-Captured.png)
 
 **6. Flag 2 (Persistence) Captured**
 
-![Flag 2 Captured](Screenshots/06-Flag2-Persistence-Captured.png)
+![Flag 2 Captured](06-Flag2-Persistence-Captured.png)
 
 **7. Flag 3 Captured**
 
-![Flag 3 Captured](Screenshots/07-Flag3-Captured.png)
+![Flag 3 Captured](07-Flag3-Captured.png)
 
 ---
 
@@ -103,19 +103,19 @@ No unauthorized access, exploitation, or testing against real third-party accoun
 
 **1. Hash Calculator Tool**
 
-![Hash Calculator Tool](Screenshots/08-Hash-Calculator-Tool.png)
+![Hash Calculator Tool](08-Hash-Calculator-Tool.png)
 
 **2. Password Cracker Tool**
 
-![Password Cracker Tool](Screenshots/09-Password-Cracker-Tool.png)
+![Password Cracker Tool](09-Password-Cracker-Tool.png)
 
 **3. Password Cracked Result**
 
-![Password Cracked Result](Screenshots/10-Password-Cracked-Result.png)
+![Password Cracked Result](10-Password-Cracked-Result.png)
 
 **4. Flag 4 Captured**
 
-![Flag 4 Captured](Screenshots/11-Flag4-Captured.png)
+![Flag 4 Captured](11-Flag4-Captured.png)
 
 ---
 
